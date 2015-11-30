@@ -89,6 +89,10 @@ class Players:
 def format_score(score):
     return round(score, 6)
 
+
+def show_rankings(game, number=100, format="human"):
+    pass
+
 if __name__ == "__main__":
     ranking = Players()
     ranking.calculate_ratings("matches.txt")
