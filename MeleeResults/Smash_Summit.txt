@@ -1,0 +1,30 @@
+Armada,Alex19
+Pewpewu,Lucky
+Ppmd,Swedish Delight
+Westballz,S2J
+Mew2King,Kage
+Plup,Shroomed
+Mang0,Zhu
+Sfat,Axe
+Armada,Pewpewu
+Ppmd,Westballz
+Mew2King,Plup
+Mang0,Sfat
+Armada,Ppmd
+Mew2King,Mang0
+Lucky,Alex19
+S2J,Swedish Delight
+Shroomed,Kage
+Axe,Zhu
+Lucky,Sfat
+Plup,S2J
+Shroomed,Westballz
+Axe,Pewpewu
+Plup,Lucky
+Shroomed,Axe
+Plup,Ppmd
+Mang0,Shroomed
+Armada,Mew2King
+Mang0,Plup
+Mang0,Mew2King
+Armada,Mang0

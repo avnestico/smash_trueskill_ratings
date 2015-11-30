@@ -1,0 +1,60 @@
+Fly Amanita,Jace
+Shroomed,Ken
+Mew2King,Mevan
+Leffen,Santiago
+Sfat,Tai
+Hungrybox,Macd
+Cactuar,Mike Haze
+Lucky,Sherigami
+Okamibw,Fiction
+Hugs,Eastcoastjeff
+Laudandus,Kira
+Westballz,Nmw
+Axe,Stab
+Fly Amanita,A Rookie
+Shroomed,Reason
+Leffen,Mew2King
+Sfat,Tafokints
+Hungrybox,Cactuar
+Lucky,Okamibw
+Hugs,Laudandus
+Axe,Westballz
+Fly Amanita,Shroomed
+Sfat,Leffen
+Lucky,Hungrybox
+Axe,Hugs
+Fly Amanita,Sfat
+Axe,Lucky
+Mang0,Jace
+Hax,Ken
+Santiago,Mevan
+S2J,Tai
+Macd,Mike Haze
+Fiction,Sherigami
+Kira,Eastcoastjeff
+Stab,Nmw
+Mang0,Westballz
+Hax,Laudandus
+Santiago,Okamibw
+S2J,Cactuar
+Macd,Tafokints
+Mew2King,Fiction
+Kira,Reason
+Stab,A Rookie
+Mang0,Hax
+S2J,Santiago
+Mew2King,Macd
+Stab,Kira
+Mang0,Leffen
+Shroomed,S2J
+Mew2King,Hugs
+Hungrybox,Stab
+Mang0,Shroomed
+Hungrybox,Mew2King
+Mang0,Lucky
+Hungrybox,Sfat
+Fly Amanita,Axe
+Mang0,Hungrybox
+Mang0,Axe
+Mang0,Fly Amanita
+Mang0,Fly Amanita

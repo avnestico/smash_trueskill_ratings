@@ -1,6 +1,7 @@
 import argparse
-from scraping_functions import *
-from calcs import show_rankings
+import sys
+import calcs
+import scraping_functions as sf
 
 
 def arg_parser(argv):
@@ -26,7 +27,7 @@ def arg_parser(argv):
 def display_game_rankings(game, output_format, top_amount):
     """Display rankings for a single game as defined by format."""
     if output_format == "human" or "tab":
-        show_rankings(game, number=top_amount, format=output_format)
+        calcs.show_rankings(game, number=top_amount, format=output_format)
     else:
         print("Format '" + output_format + "' not valid.")
         exit(1)
@@ -34,8 +35,8 @@ def display_game_rankings(game, output_format, top_amount):
 
 def display_all_rankings(output_format, top_amount):
     if output_format == "human" or "tab":
-        for game in get_valid_games():
-            show_rankings(game, number=top_amount, format=output_format)
+        for game in sf.get_valid_games():
+            calcs.show_rankings(game, number=top_amount, format=output_format)
     else:
         print("Format '" + output_format + "' not valid.")
         exit(1)
@@ -50,19 +51,19 @@ def main(args):
     top_amount = int(args.top_amount)
 
     if scrape:
-        scrape_all_tournaments()
+        sf.scrape_all_tournaments()
 
     if tournaments:
         tournaments = tournaments.split(",")
         for tournament in tournaments:
-            scrape_tournament_by_filename(tournament)
+            sf.scrape_tournament_by_filename(tournament)
 
     # If a specific game is not set, process all games. Otherwise, process only that one game.
     if not game:
-        process_all_games()
+        calcs.process_all_games()
         display_all_rankings(output_format, top_amount)
     else:
-        process_game_by_date(game)
+        calcs.process_game_by_date(game)
         display_game_rankings(game, output_format, top_amount)
 
     return 0

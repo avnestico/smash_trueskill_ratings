@@ -1,0 +1,11 @@
+http://api.smash.gg/phase_group/6102
+http://api.smash.gg/phase_group/6103
+http://api.smash.gg/phase_group/6104
+http://api.smash.gg/phase_group/6105
+http://api.smash.gg/phase_group/6106
+http://api.smash.gg/phase_group/6107
+http://api.smash.gg/phase_group/6108
+http://api.smash.gg/phase_group/6109
+http://api.smash.gg/phase_group/6099
+http://api.smash.gg/phase_group/6100
+http://api.smash.gg/phase_group/6101

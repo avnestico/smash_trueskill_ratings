@@ -1,0 +1,130 @@
+Dashizwiz,Fullmetal
+Pengie,Owl
+Hungrybox,Dashizwiz
+Awstintacious,Fearless
+Macd,Deez
+Blea Gelo,Moltov
+Gravy,Flyingpikachu
+Zhu,Smilez=)
+Kpan,Elliot
+Lucky,Apollo
+Armada,Jrad
+Spider Sense,Harriet
+Hugs,Rice
+Porkchops,Sartron
+Mike Haze,Bluejim
+Colbol,Mushroom Dynamite!
+Flow,The Author
+Sfat,Christian
+Leffen,Pengie
+Blueg,Pb&J
+Wizzrobe,Mordicon
+S0Ft,Upke
+Dizzkidboogie,Keepspeedn
+Plup,Gimr
+Smashmac,Uuaa
+Westballz,Envy
+Mew2King,Paz
+Druggedfox,Prof
+Cactuar,Articanus
+Laudandus,Rula
+Gahtzu,Rockcrock
+Shroomed,Bigwenz
+Pi,Jbomb
+Axe,Eikelmannrus
+Hungrybox,Awstintacious
+Macd,Blea Gelo
+Zhu,Gravy
+Lucky,Kpan
+Armada,Spider Sense
+Hugs,Porkchops
+Colbol,Mike Haze
+Sfat,Flow
+Leffen,Blueg
+Wizzrobe,S0Ft
+Plup,Dizzkidboogie
+Westballz,Smashmac
+Mew2King,Druggedfox
+Cactuar,Laudandus
+Shroomed,Gahtzu
+Axe,Pi
+Hungrybox,Macd
+Lucky,Zhu
+Armada,Hugs
+Colbol,Sfat
+Leffen,Wizzrobe
+Plup,Westballz
+Mew2King,Cactuar
+Axe,Shroomed
+Hungrybox,Lucky
+Armada,Colbol
+Plup,Leffen
+Mew2King,Axe
+Hungrybox,Armada
+Mew2King,Plup
+Hungrybox,Mew2King
+Eikelmannrus,Fullmetal
+Christian,Owl
+Eikelmannrus,Jbomb
+Rockcrock,Bigwenz
+Articanus,Rula
+Prof,Paz
+Uuaa,Envy
+Keepspeedn,Gimr
+Upke,Mordicon
+Pengie,Pb&J
+Christian,The Author
+Mushroom Dynamite!,Bluejim
+Rice,Sartron
+Harriet,Jrad
+Elliot,Apollo
+Smilez=),Flyingpikachu
+Deez,Moltov
+Dashizwiz,Fearless
+Eikelmannrus,Flow
+Mike Haze,Rockcrock
+Articanus,Porkchops
+Spider Sense,Prof
+Kpan,Uuaa
+Gravy,Keepspeedn
+Blea Gelo,Upke
+Pengie,Awstintacious
+Pi,Christian
+Gahtzu,Mushroom Dynamite!
+Laudandus,Rice
+Druggedfox,Harriet
+Smashmac,Elliot
+Smilez=),Dizzkidboogie
+S0Ft,Deez
+Dashizwiz,Blueg
+Mike Haze,Eikelmannrus
+Spider Sense,Articanus
+Gravy,Kpan
+Blea Gelo,Pengie
+Gahtzu,Pi
+Druggedfox,Laudandus
+Smashmac,Smilez=)
+S0Ft,Dashizwiz
+Wizzrobe,Mike Haze
+Westballz,Spider Sense
+Cactuar,Gravy
+Shroomed,Blea Gelo
+Macd,Gahtzu
+Zhu,Druggedfox
+Hugs,Smashmac
+Sfat,S0Ft
+Westballz,Wizzrobe
+Shroomed,Cactuar
+Macd,Zhu
+Sfat,Hugs
+Westballz,Lucky
+Shroomed,Colbol
+Leffen,Macd
+Axe,Sfat
+Westballz,Shroomed
+Leffen,Axe
+Westballz,Plup
+Leffen,Armada
+Leffen,Westballz
+Mew2King,Leffen
+Hungrybox,Mew2King

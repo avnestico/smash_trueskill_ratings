@@ -1,8 +1,9 @@
 from bs4 import BeautifulSoup
+import re
 import requests
 from hmc_urllib import getHTML
-from scraping_functions import *
 from urllib.request import http
+import scraping_functions as sf
 
 
 def scrape_tournament(filename, url_list):
@@ -22,7 +23,7 @@ def write_txt_from_challonge(url, file):
 Challonge: a string; the URL for a Challonge.
 TxtFile: a string; the name of the file to be written.
 Example: WriteTxtFromChallonge('http://apex2015melee.challonge.com/singles', 'Apex 2015')"""
-    file = add_txt(file)
+    file = sf.add_txt(file)
     webpage = getHTML(url)[0].replace('Mark as In Progress\n\n\nUnmark as In Progress\n\n\n\n', '') \
         .replace('\n\n\n\n\n\nEdit\n\n\nReopen', '').split('\n\n\n\nMatch Details\n\n\n\n\n\n\n')[1:]
 
@@ -44,9 +45,9 @@ Example: WriteTxtFromChallonge('http://apex2015melee.challonge.com/singles', 'Ap
             pass
 
         line = item[2] + "," + item[24] + "," + item[7] + "," + item[27]
-        line = strip_match(line)
-        if line is not None and parse_match(line) != "":
-            parsed_matches += parse_match(line) + "\n"
+        line = sf.strip_match(line)
+        if line is not None and sf.parse_match(line) != "":
+            parsed_matches += sf.parse_match(line) + "\n"
 
     with open(file, 'a') as file:
         file.write(parsed_matches)
@@ -82,9 +83,9 @@ def write_txt_from_liquipedia(url, filename):
 
     parsed_matches = ""
     for line in matches.split("\n"):
-        stripped_line = strip_match(line)
-        if stripped_line is not None and match_played(url, line):
-            parsed_match = parse_match(stripped_line)
+        stripped_line = sf.strip_match(line)
+        if stripped_line is not None and sf.match_played(url, line):
+            parsed_match = sf.parse_match(stripped_line)
             if parsed_match != "":
                 parsed_matches += parsed_match + "\n"
 
@@ -94,8 +95,11 @@ def write_txt_from_liquipedia(url, filename):
 
 def format_smashgg_url(url):
     """Converts bracket url to api url, if necessary."""
-    if not "api.smash.gg" in url:
-        url = "http://api.smash.gg/phase_group/" + url.split("/")[-1] + "?expand[0]=sets&expand[1]=entrants"
+    if "api.smash.gg" not in url:
+        url = "http://api.smash.gg/phase_group/" + url.split("/")[-1]
+    api_string = "?expand[0]=sets&expand[1]=entrants"
+    if api_string not in url:
+        url += api_string
     return url
 
 
@@ -107,9 +111,9 @@ def parse_smashgg_set(set, entrant_dict):
     entrant2Id = set["entrant2Id"]
     entrant2Score = set["entrant2Score"]
 
-    if set["completedAt"]:
-        entrant1Name = normalize_name(entrant_dict[entrant1Id])
-        entrant2Name = normalize_name(entrant_dict[entrant2Id])
+    if entrant1Id and entrant2Id:
+        entrant1Name = sf.normalize_name(entrant_dict[entrant1Id])
+        entrant2Name = sf.normalize_name(entrant_dict[entrant2Id])
 
         if type(entrant1Score) is int and type(entrant2Score) is int:
             if entrant1Score > -1 and entrant2Score > -1:
@@ -141,9 +145,9 @@ def write_txt_from_smashgg(url, filename):
         parsed_set = parse_smashgg_set(set, entrant_dict)
         if parsed_set:
             if set["isGF"]:
-                grand_finals.append(parsed_set)
+                grand_finals += parsed_set + "\n"
             else:
-                set_data.append(parsed_set)
+                set_data += parsed_set + "\n"
     parsed_matches = set_data + grand_finals
     with open(filename, 'a', encoding="utf8") as file:
         file.write(parsed_matches)

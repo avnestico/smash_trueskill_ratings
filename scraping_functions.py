@@ -4,7 +4,8 @@ import datetime
 import os
 import re
 import sys
-from scrapers import scrape_tournament
+import scrapers
+import update
 
 """
 Copyright (c) 2015 Andrew Nestico
@@ -35,6 +36,20 @@ OTHER DEALINGS IN THE SOFTWARE.
 def get_valid_games():
     return ["SSB", "Melee", "Brawl", "PM", "Sm4sh"]
 
+
+def get_tournament_filename(name, prefix):
+    """
+    Takes the name of a tournament and points to its url file
+    """
+    folder = prefix + "Urls/"
+    update.ensure_dir(folder)
+    name = name.strip()
+    name = name.replace(":", "")
+    if not name.startswith(folder):
+        name = folder + name
+    if not name.endswith(".txt"):
+        name += ".txt"
+    return name
 
 def get_game_folders(game):
     valid_games = get_valid_games()
@@ -88,13 +103,13 @@ def strip_match(line):
 
 def make_replacement_list():
     replacement_list = {}
-    with open("names.txt") as names:
+    with open("Names.txt") as names:
         for line in names:
             parse_line = line.split(":")
             real_name = parse_line[0]
             aliases = parse_line[1].split(",")
             for alias in aliases:
-                replacement_list[alias] = real_name
+                replacement_list[alias.strip()] = real_name
     return replacement_list
 
 replacement_list = make_replacement_list()
@@ -322,7 +337,7 @@ def scrape_tournament_by_game(game, tournament):
         urls = get_tournament_urls(tournament, url_folder)
         tournament_filename = get_filename(result_folder, tournament)
         safe_delete(tournament_filename)
-        scrape_tournament(tournament_filename, urls)
+        scrapers.scrape_tournament(tournament_filename, urls)
     except FileNotFoundError:
         print("No " + game + " data found for tournament '" + tournament + "'.")
 
@@ -335,7 +350,7 @@ def scrape_all_tournaments_for_game(game):
         print(tournament)
         tournament_filename = get_filename(result_folder, tournament)
         safe_delete(tournament_filename)
-        scrape_tournament(tournament_filename, tournaments[tournament])
+        scrapers.scrape_tournament(tournament_filename, tournaments[tournament])
 
 
 def scrape_all_tournaments():
@@ -346,33 +361,3 @@ def scrape_all_tournaments():
         except FileNotFoundError:
             print("No tournaments found for " + game)
 
-
-def process_game_by_date(game):
-    """Run Glicko2 ranking process for a single game in batches, with tournaments between dates processed in the same
-    batch."""
-    print("Processing " + game + "...")
-    date_file, url_folder, result_folder = get_game_folders(game)
-    tournaments = []
-    with open(date_file, 'r', encoding="ISO-8859-1") as f:
-        content = f.readlines()
-        for line in content:
-            line = line.strip()
-            is_date = check_if_date(line)
-            if not is_date:
-                if not os.path.isfile(get_filename(result_folder, line)):
-                    scrape_tournament_by_game(game, line)
-                tournaments.append(get_filename(result_folder, line))
-            else:
-                print(line)
-                process_rankings(tournaments, game)
-                tournaments = []
-    process_rankings(tournaments, game)
-
-
-def process_all_games():
-    """Run Glicko2 ranking process for all games"""
-    for game in get_valid_games():
-        try:
-            process_game_by_date(game)
-        except FileNotFoundError:
-            print("Processing files not found for " + game)

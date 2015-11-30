@@ -1,8 +1,9 @@
 import math
 import operator
+import os
 import trueskill
 from trueskill.backends import cdf
-
+import scraping_functions as sf
 
 trueskill.setup(draw_probability=0, sigma=4.166, beta=2.0833)
 
@@ -90,8 +91,47 @@ def format_score(score):
     return round(score, 6)
 
 
+game_dict = {}
+for game in sf.get_valid_games():
+    game_dict[game] = Players()
+
+
+def process_rankings(tournament, game):
+    tournament_file = sf.get_filename(game + "Results/", tournament)
+    with open(tournament_file, mode="r", encoding="ISO-8859-1") as tournament:
+        for match in tournament:
+            winner, loser = match.split(",")
+            game_dict[game].rate_1vs1(winner, loser)
+
+
 def show_rankings(game, number=100, format="human"):
-    pass
+    game_dict[game].get_trueskill_pct()
+
+
+def process_game_by_date(game):
+    """Run Glicko2 ranking process for a single game in batches, with tournaments between dates processed in the same
+    batch."""
+    print("Processing " + game + "...")
+    date_file, url_folder, result_folder = sf.get_game_folders(game)
+    with open(date_file, 'r', encoding="ISO-8859-1") as f:
+        content = f.readlines()
+        for line in content:
+            line = line.strip()
+            is_date = sf.check_if_date(line)
+            if not is_date:
+                if not os.path.isfile(sf.get_filename(result_folder, line)):
+                    sf.scrape_tournament_by_game(game, line)
+                process_rankings(line, game)
+
+
+def process_all_games():
+    """Run Glicko2 ranking process for all games"""
+    for game in sf.get_valid_games():
+        try:
+            process_game_by_date(game)
+        except FileNotFoundError:
+            print("Processing files not found for " + game)
+
 
 if __name__ == "__main__":
     ranking = Players()

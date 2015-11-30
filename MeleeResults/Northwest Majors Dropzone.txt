@@ -1,0 +1,401 @@
+Kidlink77	-	Steilacoom Wa,Sputo	-	Redmond Wa
+Artifice,Taco	-	Portland Or
+Terryj	-	Seattle Wa,Walrusstevens	-	Olympia Wa
+Chango	-	Bellevue Wa,Ctfunction	-	Cheney Wa
+Silent Wolf	-	Tukwila Wa,Kidlink77	-	Steilacoom Wa
+Artifice,Boj	-	Lynnwood Wa
+Rusty Shacklefurd	-	Vancouver Bc,Terryj	-	Seattle Wa
+Davidcanfly	-	Seattle Wa,Chango	-	Bellevue Wa
+Silent Wolf	-	Tukwila Wa,Artifice
+Rusty Shacklefurd	-	Vancouver Bc,Davidcanfly	-	Seattle Wa
+Silent Wolf	-	Tukwila Wa,Rusty Shacklefurd	-	Vancouver Bc
+Chango	-	Bellevue Wa,Sputo	-	Redmond Wa
+Terryj	-	Seattle Wa,Taco	-	Portland Or
+Boj	-	Lynnwood Wa,Walrusstevens	-	Olympia Wa
+Ctfunction	-	Cheney Wa,Kidlink77	-	Steilacoom Wa
+Chango	-	Bellevue Wa,Terryj	-	Seattle Wa
+Boj	-	Lynnwood Wa,Ctfunction	-	Cheney Wa
+Artifice,Chango	-	Bellevue Wa
+Davidcanfly	-	Seattle Wa,Boj	-	Lynnwood Wa
+Artifice,Davidcanfly	-	Seattle Wa
+Artifice,Rusty Shacklefurd	-	Vancouver Bc
+Fern	-	Seattle Wa,Jet	-	Poulsbo Wa
+Xest	-	Redmond Wa,Littlespoon
+Bliss	-	Issaquah Wa,Burnin Taco	-	Seattle Wa
+Thorne	-	Cheney Wa,Saxon	-	Lynnwood Wa
+Outthecutz	-	Seattle Wa,Fern	-	Seattle Wa
+Xest	-	Redmond Wa,Calvin	-	Seattle Wa
+Balloon	-	Eugene Or,Bliss	-	Issaquah Wa
+Inkey	-	Surrey Bc,Thorne	-	Cheney Wa
+Outthecutz	-	Seattle Wa,Xest	-	Redmond Wa
+Balloon	-	Eugene Or,Inkey	-	Surrey Bc
+Outthecutz	-	Seattle Wa,Balloon	-	Eugene Or
+Thorne	-	Cheney Wa,Jet	-	Poulsbo Wa
+Bliss	-	Issaquah Wa,Littlespoon
+Calvin	-	Seattle Wa,Burnin Taco	-	Seattle Wa
+Saxon	-	Lynnwood Wa,Fern	-	Seattle Wa
+Bliss	-	Issaquah Wa,Thorne	-	Cheney Wa
+Calvin	-	Seattle Wa,Saxon	-	Lynnwood Wa
+Bliss	-	Issaquah Wa,Xest	-	Redmond Wa
+Inkey	-	Surrey Bc,Calvin	-	Seattle Wa
+Inkey	-	Surrey Bc,Bliss	-	Issaquah Wa
+Balloon	-	Eugene Or,Inkey	-	Surrey Bc
+Simply Greens	-	Point Roberts Wa,Zazu	-	Tacoma Wa
+Raito	-	Poulsbo Wa,Captainbacon -	West Richland Wa
+N1Doking	-	Spokane Wa,Cotton Candy	-	Seattle Wa
+Cupojavascript	-	Des Moines Wa,G00N	-	Portland Or
+Ebay	-	Seattle Wa,Simply Greens	-	Point Roberts Wa
+Help	-	Redmond Wa,Raito	-	Poulsbo Wa
+Chevy	-	Everett Wa,N1Doking	-	Spokane Wa
+Owen	-	Seattle Wa,Cupojavascript	-	Des Moines Wa
+Ebay	-	Seattle Wa,Help	-	Redmond Wa
+Chevy	-	Everett Wa,Owen	-	Seattle Wa
+Ebay	-	Seattle Wa,Chevy	-	Everett Wa
+Cupojavascript	-	Des Moines Wa,Zazu	-	Tacoma Wa
+N1Doking	-	Spokane Wa,Captainbacon -	West Richland Wa
+Raito	-	Poulsbo Wa,Cotton Candy	-	Seattle Wa
+Simply Greens	-	Point Roberts Wa,G00N	-	Portland Or
+N1Doking	-	Spokane Wa,Cupojavascript	-	Des Moines Wa
+Raito	-	Poulsbo Wa,Simply Greens	-	Point Roberts Wa
+N1Doking	-	Spokane Wa,Help	-	Redmond Wa
+Raito	-	Poulsbo Wa,Owen	-	Seattle Wa
+N1Doking	-	Spokane Wa,Raito	-	Poulsbo Wa
+Chevy	-	Everett Wa,N1Doking	-	Spokane Wa
+Chad	-	Duvall Wa,Scruffy Mcwondercrumpet	-	Seattle Wa
+Vitamine	-	Seattle Wa,Unclesatan
+Theepitomeofloss -	Seattle Wa,2D	-	Bellingham Wa
+Sky	-	Bellingham Wa,Icerange	-	Poulsbo Wa
+Chicky	-	Bellevue Wa,Ladyc	-	Portland Or
+Kiriya_Aoi	-	Vancouver Bc,Chad	-	Duvall Wa
+Vitamine	-	Seattle Wa,Theepitomeofloss -	Seattle Wa
+Wasabi	-	Seattle Wa,Sky	-	Bellingham Wa
+Im_Jk	-	Pullman Wa,Chicky	-	Bellevue Wa
+Kiriya_Aoi	-	Vancouver Bc,Vitamine	-	Seattle Wa
+Wasabi	-	Seattle Wa,Im_Jk	-	Pullman Wa
+Kiriya_Aoi	-	Vancouver Bc,Wasabi	-	Seattle Wa
+2D	-	Bellingham Wa,Unclesatan
+Chicky	-	Bellevue Wa,Scruffy Mcwondercrumpet	-	Seattle Wa
+Sky	-	Bellingham Wa,2D	-	Bellingham Wa
+Theepitomeofloss -	Seattle Wa,Icerange	-	Poulsbo Wa
+Ladyc	-	Portland Or,Chad	-	Duvall Wa
+Sky	-	Bellingham Wa,Chicky	-	Bellevue Wa
+Theepitomeofloss -	Seattle Wa,Ladyc	-	Portland Or
+Vitamine	-	Seattle Wa,Sky	-	Bellingham Wa
+Im_Jk	-	Pullman Wa,Theepitomeofloss -	Seattle Wa
+Vitamine	-	Seattle Wa,Im_Jk	-	Pullman Wa
+Wasabi	-	Seattle Wa,Vitamine	-	Seattle Wa
+Flatzoner	-	Seattle Wa,Aaron Holloway	-	Port Angeles Wa
+Yrex	-	Richmond Bc,Metro	-	Maple Valley Wa
+Barron	-	Seattle Wa,Tobathor	-	Edgewood Wa
+Fatgoku	-	Portland Or,Flatzoner	-	Seattle Wa
+Dz	-	Bellevue Wa,Yrex	-	Richmond Bc
+Carrigan	-	Pullman Wa,Barron	-	Seattle Wa
+Dz	-	Bellevue Wa,Carrigan	-	Pullman Wa
+Fatgoku	-	Portland Or,Dz	-	Bellevue Wa
+Barron	-	Seattle Wa,Aaron Holloway	-	Port Angeles Wa
+Volk	-	Seattle Wa,Yrex	-	Richmond Bc
+Amrit	-	Bellingham Wa,Metro	-	Maple Valley Wa
+Tobathor	-	Edgewood Wa,Flatzoner	-	Seattle Wa
+Volk	-	Seattle Wa,Barron	-	Seattle Wa
+Amrit	-	Bellingham Wa,Tobathor	-	Edgewood Wa
+Amrit	-	Bellingham Wa,Carrigan	-	Pullman Wa
+Don'T Panic	-	Edmonds Wa,Ogma	-	Port Hadlock Wa
+Vino,Chai	-	Bellingham Wa
+Aeiou,Alfador	-	Longview Wa
+Yield	-	Vancouver Bc,Boog3Ymonst3R	-	Seattle Wa
+Jmlee337	-	Seattle Wa,Winniedakrew	-	Marysville Wa
+Booshk	-	Richmond Bc,Don'T Panic	-	Edmonds Wa
+Vino,Aeiou
+Shanks	-	Issaquah Wa,Yield	-	Vancouver Bc
+Crispy	-	Pullman Wa,Jmlee337	-	Seattle Wa
+Vino,Booshk	-	Richmond Bc
+Shanks	-	Issaquah Wa,Crispy	-	Pullman Wa
+Vino,Shanks	-	Issaquah Wa
+Chai	-	Bellingham Wa,Alfador	-	Longview Wa
+Jmlee337	-	Seattle Wa,Ogma	-	Port Hadlock Wa
+Chai	-	Bellingham Wa,Yield	-	Vancouver Bc
+Aeiou,Boog3Ymonst3R	-	Seattle Wa
+Winniedakrew	-	Marysville Wa,Don'T Panic	-	Edmonds Wa
+Chai	-	Bellingham Wa,Jmlee337	-	Seattle Wa
+Aeiou,Winniedakrew	-	Marysville Wa
+Booshk	-	Richmond Bc,Chai	-	Bellingham Wa
+Crispy	-	Pullman Wa,Aeiou
+Booshk	-	Richmond Bc,Crispy	-	Pullman Wa
+Shanks	-	Issaquah Wa,Booshk	-	Richmond Bc
+Smirked	-	Seattle Wa,Chriscch	-	Port Orchard Wa
+Juicy	-	Seattle Wa,Miztahfrawg	-	Olympia Wa
+Wasp	-	Pullman Wa,Gobi	-	Mill Creek Wa
+Chip	-	Spokane Wa,Smirked	-	Seattle Wa
+Haru	-	Richmond Bc,Kuro	-	Bellingham Wa
+Jordova	-	Portland Or,Juicy	-	Seattle Wa
+Mlk$	-	Seattle Wa,Wasp	-	Pullman Wa
+Chip	-	Spokane Wa,Haru	-	Richmond Bc
+Jordova	-	Portland Or,Mlk$	-	Seattle Wa
+Chip	-	Spokane Wa,Jordova	-	Portland Or
+Wasp	-	Pullman Wa,Chriscch	-	Port Orchard Wa
+Kuro	-	Bellingham Wa,Miztahfrawg	-	Olympia Wa
+Smirked	-	Seattle Wa,Gobi	-	Mill Creek Wa
+Wasp	-	Pullman Wa,Juicy	-	Seattle Wa
+Kuro	-	Bellingham Wa,Smirked	-	Seattle Wa
+Haru	-	Richmond Bc,Wasp	-	Pullman Wa
+Kuro	-	Bellingham Wa,Mlk$	-	Seattle Wa
+Haru	-	Richmond Bc,Kuro	-	Bellingham Wa
+Haru	-	Richmond Bc,Jordova	-	Portland Or
+Dogiefrog	-	Sammamish Wa,Mom'S Spaghetti	-	Bellingham Wa
+Antic	-	Portland Or,Yoder
+Lookalike	-	Seattle Wa,Thundrio	-	Eugene Or
+Yikes	-	Pullman Wa,Ta Crossie	-	Seattle Wa
+Dr. Z	-	Novato Ca,Dogiefrog	-	Sammamish Wa
+Antic	-	Portland Or,Lagg	-	Bellingham Wa
+Big D	-	Vancouver Bc,Lookalike	-	Seattle Wa
+Yikes	-	Pullman Wa,Feelman	-	Milton Wa
+Dr. Z	-	Novato Ca,Antic	-	Portland Or
+Big D	-	Vancouver Bc,Yikes	-	Pullman Wa
+Big D	-	Vancouver Bc,Dr. Z	-	Novato Ca
+Feelman	-	Milton Wa,Mom'S Spaghetti	-	Bellingham Wa
+Lookalike	-	Seattle Wa,Yoder
+Thundrio	-	Eugene Or,Lagg	-	Bellingham Wa
+Dogiefrog	-	Sammamish Wa,Ta Crossie	-	Seattle Wa
+Lookalike	-	Seattle Wa,Feelman	-	Milton Wa
+Thundrio	-	Eugene Or,Dogiefrog	-	Sammamish Wa
+Antic	-	Portland Or,Lookalike	-	Seattle Wa
+Yikes	-	Pullman Wa,Thundrio	-	Eugene Or
+Antic	-	Portland Or,Yikes	-	Pullman Wa
+Dr. Z	-	Novato Ca,Antic	-	Portland Or
+Ibm2000	-	Sammamish Wa,Koschka	-	Seattle Wa
+An Englishman,Probably	-	Milton Wa
+Uo_Fox	-	Eugene Or,Dpw	-	Maple Valley Wa
+Apex	-	Pullman Wa,Tyler Yamashiro	-	Seattle Wa
+Bladewise	-	Renton Wa,Ibm2000	-	Sammamish Wa
+Tlo	-	Bellingham Wa,An Englishman
+Icebit	-	Seattle Wa,Uo_Fox	-	Eugene Or
+Apex	-	Pullman Wa,Shmugs	-	Vancouver Bc
+Bladewise	-	Renton Wa,Tlo	-	Bellingham Wa
+Icebit	-	Seattle Wa,Apex	-	Pullman Wa
+Bladewise	-	Renton Wa,Icebit	-	Seattle Wa
+Shmugs	-	Vancouver Bc,Koschka	-	Seattle Wa
+Uo_Fox	-	Eugene Or,Probably	-	Milton Wa
+An Englishman,Dpw	-	Maple Valley Wa
+Ibm2000	-	Sammamish Wa,Tyler Yamashiro	-	Seattle Wa
+Uo_Fox	-	Eugene Or,Shmugs	-	Vancouver Bc
+An Englishman,Ibm2000	-	Sammamish Wa
+Uo_Fox	-	Eugene Or,Tlo	-	Bellingham Wa
+An Englishman,Apex	-	Pullman Wa
+Uo_Fox	-	Eugene Or,An Englishman
+Icebit	-	Seattle Wa,Uo_Fox	-	Eugene Or
+Magesoren	-	Seattle Wa,I-Mad	-	Pullman Wa
+Rk	-	Richmond Bc,Rookiejake
+Kiba,Earthguy	-	Redmond Wa
+Trig	-	Bellingham Wa,Wayvern	-	Sammamish Wa
+Lowkey_Fire	-	Portland Or,Wauve	-	Silverdale Wa
+Theprime	-	Seattle Wa,Magesoren	-	Seattle Wa
+Rk	-	Richmond Bc,Kiba
+Keithrep	-	Eugene Or,Trig	-	Bellingham Wa
+Mexican Ghost	-	Mount Vernon Wa,Lowkey_Fire	-	Portland Or
+Theprime	-	Seattle Wa,Rk	-	Richmond Bc
+Keithrep	-	Eugene Or,Mexican Ghost	-	Mount Vernon Wa
+Theprime	-	Seattle Wa,Keithrep	-	Eugene Or
+Rookiejake,Earthguy	-	Redmond Wa
+I-Mad	-	Pullman Wa,Lowkey_Fire	-	Portland Or
+Rookiejake,Trig	-	Bellingham Wa
+Kiba,Wayvern	-	Sammamish Wa
+Magesoren	-	Seattle Wa,Wauve	-	Silverdale Wa
+I-Mad	-	Pullman Wa,Rookiejake
+Magesoren	-	Seattle Wa,Kiba
+Rk	-	Richmond Bc,I-Mad	-	Pullman Wa
+Magesoren	-	Seattle Wa,Mexican Ghost	-	Mount Vernon Wa
+Rk	-	Richmond Bc,Magesoren	-	Seattle Wa
+Keithrep	-	Eugene Or,Rk	-	Richmond Bc
+The Hunt	-	Woodinville Wa,Mp3	-	Silverdale Wa
+Metric	-	Seattle Wa,Thane
+Jeli	-	Mountlake Terrace Wa,Dime	-	Vancouver Bc
+Blub	-	Federal Way,Spaceghost	-	Seattle Wa
+Iceman	-	Tukwila Wa,The Hunt	-	Woodinville Wa
+Metric	-	Seattle Wa,Punk Panda	-	Everett Wa
+Shiny	-	Spokane Wa,Jeli	-	Mountlake Terrace Wa
+Blub	-	Federal Way,Rh0Mbus	-	Portland Or
+Iceman	-	Tukwila Wa,Metric	-	Seattle Wa
+Shiny	-	Spokane Wa,Blub	-	Federal Way
+Iceman	-	Tukwila Wa,Shiny	-	Spokane Wa
+Rh0Mbus	-	Portland Or,Mp3	-	Silverdale Wa
+Jeli	-	Mountlake Terrace Wa,Thane
+Punk Panda	-	Everett Wa,Dime	-	Vancouver Bc
+The Hunt	-	Woodinville Wa,Spaceghost	-	Seattle Wa
+Jeli	-	Mountlake Terrace Wa,Rh0Mbus	-	Portland Or
+Punk Panda	-	Everett Wa,The Hunt	-	Woodinville Wa
+Metric	-	Seattle Wa,Jeli	-	Mountlake Terrace Wa
+Blub	-	Federal Way,Punk Panda	-	Everett Wa
+Blub	-	Federal Way,Metric	-	Seattle Wa
+Blub	-	Federal Way,Shiny	-	Spokane Wa
+Avion	-	Seattle Wa,Blackout	-	Federal Way Wa
+Miami Thunder	-	Seattle Wa,Epsilr
+Ganobrater,Slikk	-	Portland Or
+Dr Girlfriend	-	Novato Ca,Thederricka	-	Olympia Wa
+Hydro	-	Spokane Wa,Hiv+
+Low5	-	Bothell Wa,Mofat	-	Bend Or
+Shunsuke	-	Japan,Avion	-	Seattle Wa
+Ganobrater,Miami Thunder	-	Seattle Wa
+Rustin	-	Seattle Wa,Dr Girlfriend	-	Novato Ca
+Low5	-	Bothell Wa,Hydro	-	Spokane Wa
+Shunsuke	-	Japan,Ganobrater
+Rustin	-	Seattle Wa,Low5	-	Bothell Wa
+Shunsuke	-	Japan,Rustin	-	Seattle Wa
+Slikk	-	Portland Or,Epsilr
+Mofat	-	Bend Or,Hiv+
+Hydro	-	Spokane Wa,Blackout	-	Federal Way Wa
+Dr Girlfriend	-	Novato Ca,Slikk	-	Portland Or
+Miami Thunder	-	Seattle Wa,Thederricka	-	Olympia Wa
+Mofat	-	Bend Or,Avion	-	Seattle Wa
+Hydro	-	Spokane Wa,Dr Girlfriend	-	Novato Ca
+Mofat	-	Bend Or,Miami Thunder	-	Seattle Wa
+Ganobrater,Hydro	-	Spokane Wa
+Low5	-	Bothell Wa,Mofat	-	Bend Or
+Ganobrater,Low5	-	Bothell Wa
+Rustin	-	Seattle Wa,Ganobrater
+Blahcookies	-	Bremerton Wa,Boarder787	-	Olympia Wa
+Drjankenstein,Tripledecker	-	Lynnwood Wa
+Coreyfattyturd	-	Port Angeles Wa,Coffeehamster	-	Portland Or
+Ori	-	Vancouver Bc,Orion	-	Olympia Wa
+Luigi Ka-Master	-	Monroe Wa,Blahcookies	-	Bremerton Wa
+Vista	-	Federal Way Wa,Drjankenstein
+Chief	-	Seattle Wa,Coreyfattyturd	-	Port Angeles Wa
+Kamaji	-	Spokane Wa,Ori	-	Vancouver Bc
+Luigi Ka-Master	-	Monroe Wa,Vista	-	Federal Way Wa
+Kamaji	-	Spokane Wa,Chief	-	Seattle Wa
+Luigi Ka-Master	-	Monroe Wa,Kamaji	-	Spokane Wa
+Ori	-	Vancouver Bc,Boarder787	-	Olympia Wa
+Coreyfattyturd	-	Port Angeles Wa,Tripledecker	-	Lynnwood Wa
+Drjankenstein,Coffeehamster	-	Portland Or
+Blahcookies	-	Bremerton Wa,Orion	-	Olympia Wa
+Ori	-	Vancouver Bc,Coreyfattyturd	-	Port Angeles Wa
+Blahcookies	-	Bremerton Wa,Drjankenstein
+Vista	-	Federal Way Wa,Ori	-	Vancouver Bc
+Chief	-	Seattle Wa,Blahcookies	-	Bremerton Wa
+Vista	-	Federal Way Wa,Chief	-	Seattle Wa
+Kamaji	-	Spokane Wa,Vista	-	Federal Way Wa
+Burgerdon	-	Seattle Wa,Rasko	-	Burien Wa
+Guts	-	Puyallup Wa,Vae
+Beewesley	-	Point Roberts Wa,Bdj	-	Seattle Wa
+Contra	-	Portland Or,Beerz4Yearz	-	Seattle Wa
+Foosjr	-	Portland Or,Burgerdon	-	Seattle Wa
+Guts	-	Puyallup Wa,Siege	-	Spokane Wa
+Oreo	-	Lakewood Wa,Beewesley	-	Point Roberts Wa
+Alphicans	-	Edmonton Ab,Contra	-	Portland Or
+Foosjr	-	Portland Or,Guts	-	Puyallup Wa
+Oreo	-	Lakewood Wa,Alphicans	-	Edmonton Ab
+Foosjr	-	Portland Or,Oreo	-	Lakewood Wa
+Contra	-	Portland Or,Rasko	-	Burien Wa
+Beewesley	-	Point Roberts Wa,Vae
+Bdj	-	Seattle Wa,Siege	-	Spokane Wa
+Burgerdon	-	Seattle Wa,Beerz4Yearz	-	Seattle Wa
+Beewesley	-	Point Roberts Wa,Contra	-	Portland Or
+Burgerdon	-	Seattle Wa,Bdj	-	Seattle Wa
+Beewesley	-	Point Roberts Wa,Guts	-	Puyallup Wa
+Alphicans	-	Edmonton Ab,Burgerdon	-	Seattle Wa
+Alphicans	-	Edmonton Ab,Beewesley	-	Point Roberts Wa
+Alphicans	-	Edmonton Ab,Oreo	-	Lakewood Wa
+El Paco	-	Stanwood Wa,Dynamov	-	Redmond Wa
+Bronte,Jables	-	Pullman Wa
+Jt	-	Vancouver Bc,Braixen	-	Vancouver Wa
+Trevarthepastor	-	Burien Wa,Rookiejake
+Eggz	-	Portland Or,El Paco	-	Stanwood Wa
+Pwrup!	-	Seattle Wa,Bronte
+Kaostar	-	Seattle Wa,Jt	-	Vancouver Bc
+Salty Seth	-	Lake Stevens Wa,Trevarthepastor	-	Burien Wa
+Eggz	-	Portland Or,Pwrup!	-	Seattle Wa
+Salty Seth	-	Lake Stevens Wa,Kaostar	-	Seattle Wa
+Eggz	-	Portland Or,Salty Seth	-	Lake Stevens Wa
+Eggz	-	Portland Or,Salty Seth	-	Lake Stevens Wa
+Dynamov	-	Redmond Wa,Trevarthepastor	-	Burien Wa
+Jables	-	Pullman Wa,Jt	-	Vancouver Bc
+Braixen	-	Vancouver Wa,Bronte
+El Paco	-	Stanwood Wa,Rookiejake
+Jables	-	Pullman Wa,Dynamov	-	Redmond Wa
+Braixen	-	Vancouver Wa,El Paco	-	Stanwood Wa
+Pwrup!	-	Seattle Wa,Jables	-	Pullman Wa
+Kaostar	-	Seattle Wa,Braixen	-	Vancouver Wa
+Pwrup!	-	Seattle Wa,Kaostar	-	Seattle Wa
+Salty Seth	-	Lake Stevens Wa,Pwrup!	-	Seattle Wa
+Valioes	-	Portland Or,Stickers	-	Seattle Wa
+Shep,Brutality	-	Centralia Wa
+Goose	-	Seattle Wa,Lime	-	Pullman Wa
+Zilo	-	Richmond Bc,Sandbag	-	Stanwood Wa
+Druggedfox	-	Georgia,Valioes	-	Portland Or
+Shep,Rollerbob	-	Redmond Wa
+Adam	-	Eugene Or,Goose	-	Seattle Wa
+Pookie	-	Auburn Wa,Zilo	-	Richmond Bc
+Druggedfox	-	Georgia,Shep
+Pookie	-	Auburn Wa,Adam	-	Eugene Or
+Druggedfox	-	Georgia,Pookie	-	Auburn Wa
+Zilo	-	Richmond Bc,Stickers	-	Seattle Wa
+Goose	-	Seattle Wa,Brutality	-	Centralia Wa
+Lime	-	Pullman Wa,Rollerbob	-	Redmond Wa
+Valioes	-	Portland Or,Sandbag	-	Stanwood Wa
+Zilo	-	Richmond Bc,Goose	-	Seattle Wa
+Lime	-	Pullman Wa,Valioes	-	Portland Or
+Zilo	-	Richmond Bc,Shep
+Adam	-	Eugene Or,Lime	-	Pullman Wa
+Adam	-	Eugene Or,Zilo	-	Richmond Bc
+Adam	-	Eugene Or,Pookie	-	Auburn Wa
+Silent Wolf,Artifice
+Outthecutz,Balloon
+Ebay,Chevy
+Kiriya_Aoi,Wasabi
+Fatgoku,Leaf
+Vino,Shanks
+Chip,Haru
+Big D,Dr. Z
+Bladewise,Icebit
+Theprime,Keithrep
+Iceman,Blub
+Shunsuke,Rustin
+Luigi Ka-Master,Kamaji
+Foosjr,Alphicans
+Eggz,Salty Seth
+Druggedfox,Adam
+Silent Wolf,Outthecutz
+Ebay,Kiriya_Aoi
+Fatgoku,Vino
+Chip,Big D
+Bladewise,Theprime
+Iceman,Shunsuke
+Luigi Ka-Master,Foosjr
+Druggedfox,Eggz
+Silent Wolf,Ebay
+Chip,Fatgoku
+Bladewise,Iceman
+Druggedfox,Luigi Ka-Master
+Silent Wolf,Chip
+Druggedfox,Bladewise
+Silent Wolf,Druggedfox
+Silent Wolf,Druggedfox
+Artifice,Balloon
+Chevy,Wasabi
+Shanks,Leaf
+Dr. Z,Haru
+Keithrep,Icebit
+Rustin,Blub
+Alphicans,Kamaji
+Adam,Salty Seth
+Eggz,Artifice
+Foosjr,Chevy
+Shunsuke,Shanks
+Dr. Z,Theprime
+Big D,Keithrep
+Vino,Rustin
+Kiriya_Aoi,Alphicans
+Adam,Outthecutz
+Eggz,Foosjr
+Dr. Z,Shunsuke
+Big D,Vino
+Kiriya_Aoi,Adam
+Eggz,Fatgoku
+Ebay,Dr. Z
+Luigi Ka-Master,Big D
+Kiriya_Aoi,Iceman
+Eggz,Ebay
+Luigi Ka-Master,Kiriya_Aoi
+Bladewise,Eggz
+Chip,Luigi Ka-Master
+Chip,Bladewise
+Druggedfox,Chip
