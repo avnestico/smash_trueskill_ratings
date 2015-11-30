@@ -118,14 +118,14 @@ def parse_smashgg_set(set, entrant_dict):
         if type(entrant1Score) is int and type(entrant2Score) is int:
             if entrant1Score > -1 and entrant2Score > -1:
                 if entrant1Id == winnerId:
-                    return(entrant1Name + "," + entrant2Name)
+                    return entrant1Name + "," + entrant2Name
                 else:
-                    return(entrant2Name + "," + entrant1Name)
+                    return entrant2Name + "," + entrant1Name
         else:
             if entrant1Id == winnerId:
-                return(entrant1Name + "," + entrant2Name)
+                return entrant1Name + "," + entrant2Name
             else:
-                return(entrant2Name + "," + entrant1Name)
+                return entrant2Name + "," + entrant1Name
 
 
 def write_txt_from_smashgg(url, filename):
@@ -139,8 +139,8 @@ def write_txt_from_smashgg(url, filename):
         entrant_dict[entrant["id"]] = entrant["name"]
 
     sets = data["entities"]["sets"]
-    set_data = []
-    grand_finals = []
+    set_data = ""
+    grand_finals = ""
     for set in sets:
         parsed_set = parse_smashgg_set(set, entrant_dict)
         if parsed_set:
@@ -151,3 +151,8 @@ def write_txt_from_smashgg(url, filename):
     parsed_matches = set_data + grand_finals
     with open(filename, 'a', encoding="utf8") as file:
         file.write(parsed_matches)
+
+if __name__ == "__main__":
+    with open("MeleeUrls/Tipped-Off-11.txt", "r") as file:
+        for line in file:
+            write_txt_from_smashgg(line.strip(), "MeleeResults/Tipped-Off-11.txt")

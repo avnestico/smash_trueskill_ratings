@@ -1,65 +1,3 @@
-Kirbykaze,Duck
-Hugs,Frootloop
-Hugs,Duck
-Kirbykaze,Hugs
-Kirbykaze,Stro
-Ginger,Anther
-Hanky Panky,4Serial
-Mike Haze,Lucy
-Kalamazhu,Nightmare
-Luigigoshard,The Oak
-Hugs,Orly
-Beach,Toast
-Chillindude,Napkin
-Sauc3,Dre
-Drephen,Kason
-Kjh,Beegs
-Duck,Reeve
-4%,Nja
-Frootloop,Cave Dweller
-Prince Abu,Eggnawg
-Kirbykaze,Ginger
-Mike Haze,Hanky Panky
-Kalamazhu,Luigigoshard
-Hugs,Beach
-Chillindude,Sauc3
-Drephen,Kjh
-Duck,4%
-Frootloop,Prince Abu
-Kirbykaze,Mike Haze
-Kalamazhu,Hugs
-Chillindude,Drephen
-Duck,Frootloop
-Kirbykaze,Kalamazhu
-Duck,Chillindude
-Anther,Stro
-4Serial,Lucy
-Nightmare,The Oak
-Orly,Toast
-Dre,Napkin
-Kason,Beegs
-Nja,Reeve
-Cave Dweller,Eggnawg
-Prince Abu,Anther
-4%,4Serial
-Kjh,Nightmare
-Orly,Sauc3
-Beach,Dre
-Luigigoshard,Kason
-Hanky Panky,Nja
-Ginger,Cave Dweller
-Prince Abu,4%
-Kjh,Orly
-Beach,Luigigoshard
-Hanky Panky,Ginger
-Hugs,Prince Abu
-Mike Haze,Kjh
-Frootloop,Beach
-Hanky Panky,Drephen
-Hugs,Mike Haze
-Frootloop,Hanky Panky
-Hugs,Chillindude
-Frootloop,Kalamazhu
 Ryan #2,Invincabull
 Rodohk,Gamma
 Nexic,Shinsuyavi
@@ -204,3 +142,65 @@ Reeve,5-1.
 Nja,Toadster
 Cave Dweller,Iron
 Eggnawg,Honeybaked
+Kirbykaze,Stro
+Ginger,Anther
+Hanky Panky,4Serial
+Mike Haze,Lucy
+Kalamazhu,Nightmare
+Luigigoshard,The Oak
+Hugs,Orly
+Beach,Toast
+Chillindude,Napkin
+Sauc3,Dre
+Drephen,Kason
+Kjh,Beegs
+Duck,Reeve
+4%,Nja
+Frootloop,Cave Dweller
+Prince Abu,Eggnawg
+Kirbykaze,Ginger
+Mike Haze,Hanky Panky
+Kalamazhu,Luigigoshard
+Hugs,Beach
+Chillindude,Sauc3
+Drephen,Kjh
+Duck,4%
+Frootloop,Prince Abu
+Kirbykaze,Mike Haze
+Kalamazhu,Hugs
+Chillindude,Drephen
+Duck,Frootloop
+Kirbykaze,Kalamazhu
+Duck,Chillindude
+Anther,Stro
+4Serial,Lucy
+Nightmare,The Oak
+Orly,Toast
+Dre,Napkin
+Kason,Beegs
+Nja,Reeve
+Cave Dweller,Eggnawg
+Prince Abu,Anther
+4%,4Serial
+Kjh,Nightmare
+Orly,Sauc3
+Beach,Dre
+Luigigoshard,Kason
+Hanky Panky,Nja
+Ginger,Cave Dweller
+Prince Abu,4%
+Kjh,Orly
+Beach,Luigigoshard
+Hanky Panky,Ginger
+Hugs,Prince Abu
+Mike Haze,Kjh
+Frootloop,Beach
+Hanky Panky,Drephen
+Hugs,Mike Haze
+Frootloop,Hanky Panky
+Hugs,Chillindude
+Frootloop,Kalamazhu
+Kirbykaze,Duck
+Hugs,Frootloop
+Hugs,Duck
+Kirbykaze,Hugs

@@ -350,6 +350,8 @@ http://wiki.teamliquid.net/smash/Paragon_Los_Angeles_2015/Singles
 
 2015-09-19
 DreamHack_London_2015
+http://wiki.teamliquid.net/smash/index.php?title=DreamHack_London_2015/Singles_Bracket/Winners
+http://wiki.teamliquid.net/smash/index.php?title=DreamHack_London_2015/Singles_Bracket/Losers
 http://wiki.teamliquid.net/smash/DreamHack_London_2015/Singles_Bracket
 
 2015-09-19
@@ -471,5 +473,7 @@ Bust_3
 http://bigbluees.challonge.com/B3Pro
 
 2015-11-28
-Dreamhack_Winter
+Dreamhack_Winter_2015
+http://wiki.teamliquid.net/smash/index.php?title=DreamHack_Winter_2015/Winners_Bracket
+http://wiki.teamliquid.net/smash/index.php?title=DreamHack_Winter_2015/Losers_Bracket
 http://wiki.teamliquid.net/smash/DreamHack_Winter_2015/Singles_Bracket

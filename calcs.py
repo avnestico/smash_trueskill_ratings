@@ -5,7 +5,7 @@ import trueskill
 from trueskill.backends import cdf
 import scraping_functions as sf
 
-trueskill.setup(draw_probability=0, sigma=4.166, beta=2.0833)
+trueskill.setup(draw_probability=0)
 
 
 class Player:
